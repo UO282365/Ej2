@@ -1,0 +1,40 @@
+/**
+especifidad (0,0,1)
+**/
+body{
+    color:rgb(68, 41, 41);
+    background-color: rgb(218, 218, 218);
+}
+/**
+especifidad (0,0,1)
+**/
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+/**
+especifidad (0,0,1)
+**/
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/**
+especifidad (0,0,1)
+**/
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/**
+especifidad (0,0,1)
+**/
+h4{
+    background-color: beige;
+    color: blue;
+}
+/**
+especifidad (0,0,1)
+**/
+p{
+    background-color: rgb(170, 244, 247);
+    color:rgb(31, 21, 7);
+}
